@@ -21,7 +21,7 @@ predicted Label: Virginica
 - Modify the dataset loading path in the script if necessary.
 
 # License
-This project is licensed undert the MIT License.
+This project is licensed undert the MIT License(https://www.apache.org/licenses/LICENSE-2.0).
 
 ## Author
 Developed by DoHyun Mun
